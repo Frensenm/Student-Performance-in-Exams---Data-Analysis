@@ -26,7 +26,7 @@ Analisis data menghasilkan beberapa wawasan penting mengenai faktor yang memenga
 3.  **Pola Kinerja Berdasarkan Gender:** Terdapat pola kinerja yang berbeda antar gender. Siswi perempuan cenderung unggul dalam membaca dan menulis, sementara siswa laki-laki cenderung lebih unggul dalam matematika.
 
 ## Fitur Dasbor
-
+![Dasboard](Capture/Dashboard.png)
 Dasbor interaktif ini memungkinkan pengguna untuk memfilter keseluruhan analisis berdasarkan:
 -   Gender
 -   Race/Ethnicity
